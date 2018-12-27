@@ -1,6 +1,6 @@
 name       : ruby-builder
 version    : 3.2.3
-release    : 1
+release    : 2
 source     :
     - https://rubygems.org/downloads/builder-3.2.3.gem : 21f3026ba615d87488329aff4aa4c10464563de3c648f678d8edd26374892b62
 license    : MIT
@@ -9,7 +9,7 @@ summary    : RubyGem - builder
 description: |
     Builder provides a number of builder objects that make creating structured data simple to do. Currently the following builder objects are supported: * XML Markup * XML EventsBuilder provides a number of builder objects that make creating structured data simple to do. Currently the following builder objects are supported: XML Markup and XML Events.
 builddeps  :
-    - pkgconfig(ruby-2.3)
+    - pkgconfig(ruby-2.6)
 rundeps    :
     - ruby
 install    : |
