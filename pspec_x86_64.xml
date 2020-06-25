@@ -2,8 +2,8 @@
     <Source>
         <Name>ruby-builder</Name>
         <Packager>
-            <Name>F. von Gellhorn</Name>
-            <Email>flinux@vongellhorn.ch</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@streambits.io</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.ruby</PartOf>
@@ -19,47 +19,46 @@
 </Description>
         <PartOf>programming.ruby</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/build_info</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/CHANGES</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/MIT-LICENSE</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/README.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/Rakefile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/doc/jamis.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/doc/releases/builder-1.2.4.rdoc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/doc/releases/builder-2.0.0.rdoc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/doc/releases/builder-2.1.1.rdoc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/lib/blankslate.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/lib/builder.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/lib/builder/blankslate.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/lib/builder/version.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/lib/builder/xchar.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/lib/builder/xmlbase.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/lib/builder/xmlevents.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/lib/builder/xmlmarkup.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/rakelib/publish.rake</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/rakelib/tags.rake</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/rakelib/testing.rake</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/test/helper.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/test/performance.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/test/preload.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/test/test_blankslate.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/test/test_eventbuilder.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/test/test_markupbuilder.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/test/test_method_caching.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/test/test_namecollision.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/builder-3.2.3/test/test_xchar.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/specifications/builder-3.2.3.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/CHANGES</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/MIT-LICENSE</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/README.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/Rakefile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/builder.blurb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/builder.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/doc/jamis.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/doc/releases/builder-1.2.4.rdoc</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/doc/releases/builder-2.0.0.rdoc</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/doc/releases/builder-2.1.1.rdoc</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/lib/blankslate.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/lib/builder.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/lib/builder/blankslate.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/lib/builder/version.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/lib/builder/xchar.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/lib/builder/xmlbase.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/lib/builder/xmlevents.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/lib/builder/xmlmarkup.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/rakelib/publish.rake</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/rakelib/tags.rake</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/rakelib/testing.rake</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/test/helper.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/test/performance.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/test/preload.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/test/test_blankslate.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/test/test_eventbuilder.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/test/test_markupbuilder.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/test/test_method_caching.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/test/test_namecollision.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/gems/builder-3.2.4/test/test_xchar.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.7.0/specifications/builder-3.2.4.gemspec</Path>
         </Files>
     </Package>
     <History>
-        <Update release="3">
-            <Date>2019-10-07</Date>
-            <Version>3.2.3</Version>
+        <Update release="4">
+            <Date>2020-06-26</Date>
+            <Version>3.2.4</Version>
             <Comment>Packaging update</Comment>
-            <Name>F. von Gellhorn</Name>
-            <Email>flinux@vongellhorn.ch</Email>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@streambits.io</Email>
         </Update>
     </History>
 </PISI>
